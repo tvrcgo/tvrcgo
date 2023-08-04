@@ -1,5 +1,6 @@
 ## New
 
+- [cos-action](https://github.com/tvrcgo/cos-action) 上传文件到腾讯云 COS
 - [airprint-bridge](https://github.com/tvrcgo/airprint-bridge/tree/dev) 让打印机支持 AirPrint
 - [tvrcgo/clash](https://github.com/tvrcgo/docker-library/tree/master/clash)：docker clash 增强版
 - [injection](https://github.com/tvrcgo/injection)：实现一个简单的 IoC 库
